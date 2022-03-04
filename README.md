@@ -6,7 +6,7 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS%20CODE-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=orange)
-![](https://img.shields.io/badge/CODE-JS-informational?style=flat&logo=javascript&logoColor=cfc508&color=orange)
+![](https://img.shields.io/badge/CODE-JS-informational?style=flat&logo=javascript&logoColor=fff200&color=orange)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=orange)
 
 
