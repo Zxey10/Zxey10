@@ -12,9 +12,7 @@
 <a href="https://github.com/Zxey10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&layout=compact&theme=radical" />
 </a>
-
-[](https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10)](https://github.com/Zxey10/github-readme-stats)
-
+&nbsp;
 <a href="https://github.com/Zxey10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical" />
 </a>
