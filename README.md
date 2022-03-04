@@ -4,7 +4,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-#About Me
+## About Me
 Hey I am Alex and I am learning web development!
 
 <a href="https://github.com/Zxey10/github-readme-stats">
