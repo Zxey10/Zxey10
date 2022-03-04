@@ -1,7 +1,7 @@
 
 
-# Hello! <img src="" width="30px">
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+# Hello! <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30px">
+
 
 
 ## 🔧 Technologies & Tools
