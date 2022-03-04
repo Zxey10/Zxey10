@@ -4,15 +4,12 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Zxey10&show_icons=true&theme=radical)   
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&layout=compact&theme=radical)](https://github.com/Zxey10/github-readme-stats)
-
 
 <a href="https://github.com/Zxey10/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zxey10&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/anuraghazra/convoychat" style="margin-left:10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&layout=compact&theme=radical" />
 </a>
 
