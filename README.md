@@ -6,10 +6,12 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS%20CODE-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=orange)
+![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logo=html5&logoColor=red&color=orange)
+![](https://img.shields.io/badge/CODE-CSS-informational?style=flat&logo=css3&logoColor=blue&color=orange)
 ![](https://img.shields.io/badge/CODE-JS-informational?style=flat&logo=javascript&logoColor=fff200&color=orange)
 ![](https://img.shields.io/badge/CODE-REACT-informational?style=flat&logo=react&logoColor=00aeff&color=orange)
-![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logo=html5&logoColor=red&color=orange)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=orange)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=orange)
 
 
 ## &#x1f4c8; GitHub Stats
