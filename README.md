@@ -34,7 +34,7 @@ Hey I am Alex and I am learning web development!
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=orange)
 
 ## 📱 Android Apps
-<a href="https://play.google.com/store/apps/dev?id=9150455945083472453">Android Apps</a>
+🟠 <a href="https://play.google.com/store/apps/dev?id=9150455945083472453">Android Apps</a>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
