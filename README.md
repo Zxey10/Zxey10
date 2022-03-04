@@ -2,22 +2,10 @@
 
 # Hello there! <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px">
 
-
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VS%20CODE-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=orange)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=orange)
-![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logo=html5&logoColor=red&color=orange)
-![](https://img.shields.io/badge/CODE-CSS-informational?style=flat&logo=css3&logoColor=blue&color=orange)
-![](https://img.shields.io/badge/CODE-JS-informational?style=flat&logo=javascript&logoColor=fff200&color=orange)
-![](https://img.shields.io/badge/CODE-REACT-informational?style=flat&logo=react&logoColor=00aeff&color=orange)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=orange)
-
-
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/Zxey10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
@@ -31,6 +19,18 @@
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-VS%20CODE-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=orange)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=orange)
+![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logo=html5&logoColor=red&color=orange)
+![](https://img.shields.io/badge/CODE-CSS-informational?style=flat&logo=css3&logoColor=blue&color=orange)
+![](https://img.shields.io/badge/CODE-JS-informational?style=flat&logo=javascript&logoColor=fff200&color=orange)
+![](https://img.shields.io/badge/CODE-REACT-informational?style=flat&logo=react&logoColor=00aeff&color=orange)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=orange)
+
+
 
 <!-- links to social media icons -->
 
