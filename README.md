@@ -4,6 +4,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
+#About Me
+Hey I am Alex and I am learning web development!
 
 <a href="https://github.com/Zxey10/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zxey10&show_icons=true&theme=radical" />
