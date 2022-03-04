@@ -15,7 +15,6 @@
 &nbsp;
 <a href="https://github.com/Zxey10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zxey19&repo=github-readme-stats&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical" />
 </a>
 <a href="https://github.com/Zxey10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical" />
