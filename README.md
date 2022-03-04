@@ -6,6 +6,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Zxey10&show_icons=true&theme=radical)   
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS%20CODE-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=orange)
