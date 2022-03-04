@@ -2,10 +2,12 @@
 
 # Hello there! <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px">
 
+## &#x2622; About Me
+Hey I am Alex and I am learning web development!
+
+
 ## &#x1f4c8; GitHub Stats
 
-## About Me
-Hey I am Alex and I am learning web development!
 
 <a href="https://github.com/Zxey10/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zxey10&show_icons=true&theme=radical" />
