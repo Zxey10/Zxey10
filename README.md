@@ -14,12 +14,12 @@
 </a>
 &nbsp;
 <a href="https://github.com/Zxey10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zxey19&repo=github-readme-stats&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical" />
 </a>
 <a href="https://github.com/Zxey10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical" />
 </a>
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS%20CODE-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=orange)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=orange)
