@@ -3,9 +3,6 @@
 
 # Hello there! <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px">
 
-## &#x2622; About Me
-Hey I am Alex and I am learning web development!
-
 
 ## &#x1f4c8; GitHub Stats
 
@@ -22,6 +19,9 @@ Hey I am Alex and I am learning web development!
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical" />
 </a>
 
+## &#x2622; About Me
+Hey I am Alex and I am learning web development!
+
 
 
 ## 🔧 Technologies & Tools
@@ -33,27 +33,6 @@ Hey I am Alex and I am learning web development!
 ![](https://img.shields.io/badge/CODE-REACT-informational?style=flat&logo=react&logoColor=00aeff&color=orange)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=orange)
 
-
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
 
 
 <!-- Resources -->
