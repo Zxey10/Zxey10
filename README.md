@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/Zxey10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&theme=radical" />
 </a>
 
 <a href="https://github.com/Zxey10">
