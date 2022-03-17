@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/Zxey10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical&v=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical" />
 </a>
 
 ## &#x2622; About Me
