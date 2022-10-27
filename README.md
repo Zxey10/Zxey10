@@ -1,5 +1,5 @@
 
-[![Header](https://i.imgur.com/AK4GpM0.gif  "Header")](https://github.com/Zxey10/)
+[![Header](https://i.imgur.com/CVtEdxU.gif  "Header")](https://github.com/Zxey10/)
 
 # Hello there! <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px">
 
