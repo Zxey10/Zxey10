@@ -15,9 +15,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&theme=radical" />
 </a>
 
-<a href="https://github.com/Zxey10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zxey10&theme=radical" />
-</a>
 
 ## &#x2622; About Me
 Hey I am Alex and I am learning web development!
