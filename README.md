@@ -17,7 +17,7 @@
 
 
 ## &#x2622; About Me
-Hey I am Alex and I am learning web development!
+Hey I am Alex and I am learning to code!
 
 
 
