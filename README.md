@@ -29,7 +29,7 @@ Hey I am Alex and I am learning to code!
 ![](https://img.shields.io/badge/CODE-JS-informational?style=flat&logo=javascript&logoColor=fff200&color=orange)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=blue&color=orange)
 ![](https://img.shields.io/badge/CODE-REACT-informational?style=flat&logo=react&logoColor=00aeff&color=orange)
-![](https://img.shields.io/badge/CODE-REACT-NATIVE-informational?style=flat&logo=react&logoColor=00aeff&color=orange)
+![](https://img.shields.io/badge/Code-React%20Native-informational?style=flat&logo=react&logoColor=blue&color=orange)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=red&color=orange)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=orange)
 ![](https://img.shields.io/badge/DB-PostgreSQl-informational?style=flat&logo=postgresql&logoColor=blue&color=orange)
