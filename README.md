@@ -27,8 +27,12 @@ Hey I am Alex and I am learning to code!
 ![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logo=html5&logoColor=red&color=orange)
 ![](https://img.shields.io/badge/CODE-CSS-informational?style=flat&logo=css3&logoColor=blue&color=orange)
 ![](https://img.shields.io/badge/CODE-JS-informational?style=flat&logo=javascript&logoColor=fff200&color=orange)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=blue&color=orange)
 ![](https://img.shields.io/badge/CODE-REACT-informational?style=flat&logo=react&logoColor=00aeff&color=orange)
+![](https://img.shields.io/badge/CODE-REACT-NATIVE-informational?style=flat&logo=react&logoColor=00aeff&color=orange)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=red&color=orange)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=orange)
+![](https://img.shields.io/badge/DB-PostgreSQl-informational?style=flat&logo=postgresql&logoColor=blue&color=orange)
 
 ## 📱 Android Apps
 🟠 <a href="https://play.google.com/store/apps/dev?id=9150455945083472453">Android Apps</a>
