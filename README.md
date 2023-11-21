@@ -8,11 +8,11 @@
 
 
 <a href="https://github.com/Zxey10/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zxey10&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zxey10&theme=highcontrast&hide_border=true" />
 </a>
 
 <a href="https://github.com/Zxey10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
 
