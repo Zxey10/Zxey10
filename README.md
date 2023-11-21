@@ -11,9 +11,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zxey10&theme=highcontrast&hide_border=true" />
 </a>
 
-<a href="https://github.com/Zxey10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zxey10&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
-</a>
 
 
 ## &#x2622; About Me
